@@ -1,0 +1,24 @@
+Input: [5.0, 3.0, 4.45, 1.15]
+KNN predicted class: Iris-versicolor, Accuracy: 1.0000, Time: 0.0026 seconds
+SVM predicted class: Iris-versicolor, Accuracy: 0.9778, Time: 0.0000 seconds
+ANN predicted class: Iris-versicolor, Accuracy: 1.0000, Time: 1.1554 seconds
+
+==================================================
+Input: [4.0, 6.0, 7.0, 2.0]
+KNN predicted class: Iris-setosa, Accuracy: 1.0000, Time: 0.0157 seconds
+SVM predicted class: Iris-versicolor, Accuracy: 0.9778, Time: 0.0000 seconds
+ANN predicted class: Iris-virginica, Accuracy: 1.0000, Time: 0.6629 seconds
+
+==================================================
+Input: [4.0, 6.0, 3.0, 2.0]
+KNN predicted class: Iris-setosa, Accuracy: 1.0000, Time: 0.0021 seconds
+SVM predicted class: Iris-setosa, Accuracy: 0.9778, Time: 0.0000 seconds
+ANN predicted class: Iris-setosa, Accuracy: 1.0000, Time: 1.0241 seconds
+
+==================================================
+Input: [6.69, 3.1, 5.4, 2.1]
+KNN predicted class: Iris-virginica, Accuracy: 1.0000, Time: 0.0041 seconds
+SVM predicted class: Iris-virginica, Accuracy: 0.9778, Time: 0.0000 seconds
+ANN predicted class: Iris-virginica, Accuracy: 1.0000, Time: 0.7017 seconds
+
+==================================================
